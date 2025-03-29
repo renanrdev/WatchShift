@@ -1,4 +1,4 @@
-# Compliance Monitor API
+# WatchShift - Compliance Monitor
 
 Uma aplicação .NET 8 para monitoramento de conformidade e segurança em clusters Kubernetes e OpenShift.
 
