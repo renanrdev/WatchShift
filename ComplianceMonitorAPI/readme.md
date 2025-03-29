@@ -1,4 +1,4 @@
-# Compliance Monitor
+# Compliance Monitor API
 
 Uma aplicação .NET 8 para monitoramento de conformidade e segurança em clusters Kubernetes e OpenShift.
 
